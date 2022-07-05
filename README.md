@@ -2,6 +2,10 @@
 
 ![Screenshot of PickingPts](screenshots/screenshot01.png)
 
+### Tested
+* openFrameworks version : 0.11.2
+
+
 ### Learning Objectives
 
 This example is the simplest possible openFrameworks app! 

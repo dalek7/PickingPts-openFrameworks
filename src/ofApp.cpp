@@ -2,8 +2,10 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-
-    g_img1.load("2560px-Sungkyunkwan_University_Bicheondang_and_600th_Anniversary_Hall.jpg");
+    std::string fn;
+    //fn = "dog_and_sun_small.jpg";
+    fn = "2560px-Sungkyunkwan_University_Bicheondang_and_600th_Anniversary_Hall.jpg";
+    g_img1.load(fn);
     
     g_cnt = 0;
 }
